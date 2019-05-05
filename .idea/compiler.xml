@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mengchuilu" />
+        <module name="LeetCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mengchuilu" target="8" />
+      <module name="LeetCode" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
