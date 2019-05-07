@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b1ca0b6-5fe6-4404-85c4-2e1c27cdd753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/q024/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q025/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -18,44 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/q017/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="42" selection-start-line="2" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/q022/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/q023/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/q025/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/q024/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="45" column="7" selection-start-line="4" selection-end-line="45" selection-end-column="7" />
+            <state relative-caret-position="397">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/main/java/q022/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/q023/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/q024/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q025/Solution.java" />
       </list>
     </option>
   </component>
@@ -152,7 +132,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="q023" type="462c0819:PsiDirectoryNode" />
+              <item name="q024" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mengchuilu" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +140,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="q024" type="462c0819:PsiDirectoryNode" />
+              <item name="q025" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q019.Solution" />
       <module name="LeetCode" />
@@ -245,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q020.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q025.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q020.*" />
+          <option name="PATTERN" value="q025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +265,12 @@
       <workItem from="1557058038050" duration="484000" />
       <workItem from="1557065448854" duration="2994000" />
       <workItem from="1557147266390" duration="2541000" />
-      <workItem from="1557236104249" duration="1722000" />
+      <workItem from="1557236104249" duration="5752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21090000" />
+    <option name="totallyTimeSpent" value="25120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -307,7 +287,7 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49927953" weight="0.2589396" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49927953" weight="0.24907522" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50072044" side_tool="true" weight="0.405672" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3292232" />
@@ -317,8 +297,8 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.3299712" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info active="true" anchor="right" id="Debug" order="6" sideWeight="0.49927953" side_tool="true" visible="true" weight="0.4164265" />
-      <window_info anchor="right" id="Run" order="7" side_tool="true" weight="0.29971182" />
+      <window_info active="true" anchor="right" id="Debug" order="6" sideWeight="0.49927953" side_tool="true" visible="true" weight="0.5072046" />
+      <window_info anchor="right" id="Run" order="7" side_tool="true" weight="0.49351585" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +348,12 @@
           <line>26</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q025/Solution.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -535,8 +521,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/q024/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="45" column="7" selection-start-line="4" selection-end-line="45" selection-end-column="7" />
+        <state relative-caret-position="397">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q025/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
