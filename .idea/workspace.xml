@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b1ca0b6-5fe6-4404-85c4-2e1c27cdd753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/q033/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q018/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q026/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -18,11 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/q033/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/q018/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            <state relative-caret-position="137">
+              <caret line="34" column="62" lean-forward="true" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/q026/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -62,6 +75,8 @@
         <option value="$PROJECT_DIR$/src/main/java/q024/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/q025/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/q033/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q018/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q026/Solution.java" />
       </list>
     </option>
   </component>
@@ -84,6 +99,9 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -122,7 +140,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="q033" type="462c0819:PsiDirectoryNode" />
+              <item name="q026" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,13 +171,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q015.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q018.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q015.*" />
+          <option name="PATTERN" value="q018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q016.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q026.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q016.*" />
+          <option name="PATTERN" value="q026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -247,18 +265,20 @@
       <workItem from="1557065448854" duration="2994000" />
       <workItem from="1557147266390" duration="2541000" />
       <workItem from="1557236104249" duration="5824000" />
-      <workItem from="1557323071370" duration="3043000" />
+      <workItem from="1557323071370" duration="3176000" />
+      <workItem from="1557408455035" duration="94000" />
+      <workItem from="1557408581624" duration="4776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28235000" />
+    <option name="totallyTimeSpent" value="33238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20821325" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29827088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -269,7 +289,7 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49927953" weight="0.23427866" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49927953" weight="0.4759556" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50072044" side_tool="true" weight="0.405672" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3292232" />
@@ -279,7 +299,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.3299712" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info active="true" anchor="right" id="Debug" order="6" sideWeight="0.49927953" side_tool="true" visible="true" weight="0.33069164" />
+      <window_info active="true" anchor="right" id="Debug" order="6" sideWeight="0.49927953" side_tool="true" visible="true" weight="0.5201729" />
       <window_info anchor="right" id="Run" order="7" side_tool="true" weight="0.49351585" />
     </layout>
   </component>
@@ -342,6 +362,18 @@
           <line>10</line>
           <properties />
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q018/Solution.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q026/Solution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -527,7 +559,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/q033/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q018/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="34" column="62" lean-forward="true" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q026/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
         </state>
       </provider>
     </entry>
