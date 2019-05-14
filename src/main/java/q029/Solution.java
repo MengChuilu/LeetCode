@@ -1,5 +1,6 @@
 package q029;
 
+// 很墨迹的一个题目
 class Solution {
     public int divide(int dividend, int divisor) {
 
