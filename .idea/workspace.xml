@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b1ca0b6-5fe6-4404-85c4-2e1c27cdd753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/q056/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q057/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q059/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q060/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q061/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q062/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q063/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q064/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q053/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q066/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q067/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q070/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q071/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q074/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q075/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q077/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q078/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q080/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q082/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q083/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q086/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q091/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q092/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q093/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q098/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q099/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q100/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/q054/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q054/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,13 +97,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q060.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q093.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q060.*" />
+          <option name="PATTERN" value="q093.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q091.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q091.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,24 +125,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q061.Solution" />
+      <option name="MAIN_CLASS_NAME" value="q080.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q061.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q062.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q062.*" />
+          <option name="PATTERN" value="q080.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q063.Solution" />
+      <option name="MAIN_CLASS_NAME" value="q054.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q063.*" />
+          <option name="PATTERN" value="q054.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +151,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q064.Solution" />
+      <option name="MAIN_CLASS_NAME" value="q092.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q064.*" />
+          <option name="PATTERN" value="q092.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +221,23 @@
       <workItem from="1569410891845" duration="5285000" />
       <workItem from="1569468306552" duration="1000" />
       <workItem from="1569490287108" duration="2000" />
-      <workItem from="1569581075061" duration="4152000" />
+      <workItem from="1569581075061" duration="4431000" />
+      <workItem from="1569671280165" duration="5212000" />
+      <workItem from="1569726990523" duration="891000" />
+      <workItem from="1569727946910" duration="203000" />
+      <workItem from="1569728166371" duration="232000" />
+      <workItem from="1570499110209" duration="303000" />
+      <workItem from="1570499446284" duration="2827000" />
+      <workItem from="1570504936758" duration="844000" />
+      <workItem from="1570626609759" duration="3581000" />
+      <workItem from="1570673038772" duration="255000" />
+      <workItem from="1570691589192" duration="2234000" />
+      <workItem from="1570697964866" duration="777000" />
+      <workItem from="1570713051553" duration="1139000" />
+      <workItem from="1570791987879" duration="2258000" />
+      <workItem from="1570796396376" duration="72000" />
+      <workItem from="1570796576596" duration="1020000" />
+      <workItem from="1570960150296" duration="6717000" />
     </task>
     <servers />
   </component>
@@ -242,7 +271,7 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q054/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/q053/Solution.java</url>
           <line>16</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -311,22 +340,106 @@
           <line>34</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q064/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q066/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q070/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q071/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q075/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q078/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q077/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q082/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q054/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q092/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q092/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q093/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="result" language="JAVA" />
-        <watch expression="list" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mengchuilu$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1563097678980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>q038.*</FILTER>
+    <SUITE FILE_PATH="coverage/mengchuilu$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1569676680387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>q092.*</FILTER>
     </SUITE>
   </component>
 </project>
