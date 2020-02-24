@@ -10,13 +10,13 @@ public class Solution {
 
     List<List<Integer>> result = new ArrayList<>();
 
-    public List<List<Integer>> subsets(int[] nums) {
+    public List<List<Integer>> subsets(final int[] nums) {
         backtrace(nums, new ArrayList<>(), 0);
 
         return result;
     }
 
-    private void backtrace(int[] nums, List<Integer> now, int start) {
+    private void backtrace(final int[] nums, final List<Integer> now, final int start) {
 
         if (start == nums.length) {
             result.add(new ArrayList<>(now));
@@ -29,9 +29,9 @@ public class Solution {
         now.remove(now.size() - 1);
     }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        List<List<Integer>> subsets = solution.subsets(new int[]{1, 2, 3, 4});
+    public static void main(final String[] args) {
+        final Solution solution = new Solution();
+        final List<List<Integer>> subsets = solution.subsets(new int[] { 1, 2, 3, 4 });
 
         System.out.println(subsets);
 

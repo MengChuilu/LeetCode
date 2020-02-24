@@ -1,52 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b1ca0b6-5fe6-4404-85c4-2e1c27cdd753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q053/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q066/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q067/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q070/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q071/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q074/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q075/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q077/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q078/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q080/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q082/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q083/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q086/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q091/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q092/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q093/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q098/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q099/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q100/Solution.java" afterDir="false" />
+    <list default="true" id="97aba8ca-1317-43b6-8790-a6d0054dae8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mengchuilu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q467/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q496/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q533/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q654/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q661/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q746/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q878/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r019/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r124/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r185/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r331/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/q054/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q054/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/q012/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q012/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/q078/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q078/Solution.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,191 +41,99 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:MengChuilu/LeetCode.git" />
+      </set>
     </option>
   </component>
-  <component name="ProjectId" id="1Q0gveuaCI93Tp4BOcJERpZi9RC" />
+  <component name="ProjectId" id="1WOCnY2LRXmJkd43TZepjgikiHz" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15902779" />
-    <property name="project.structure.side.proportion" value="0.3014038" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="q052" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q093.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q093.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="r124.Solution" />
+      <module name="mengchuilu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q091.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q091.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="r019.Solution" />
+      <module name="mengchuilu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q080.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q080.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="q467.Solution" />
+      <module name="mengchuilu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q496.Solution" />
+      <module name="mengchuilu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q054.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q054.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q092.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q092.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="q878.Solution" />
+      <module name="mengchuilu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b1ca0b6-5fe6-4404-85c4-2e1c27cdd753" name="Default Changelist" comment="" />
-      <created>1556712985674</created>
+      <changelist id="97aba8ca-1317-43b6-8790-a6d0054dae8a" name="Default Changelist" comment="" />
+      <created>1579011421353</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556712985674</updated>
-      <workItem from="1556712989306" duration="9295000" />
-      <workItem from="1556976570923" duration="12000" />
-      <workItem from="1556976602046" duration="4019000" />
-      <workItem from="1557022760808" duration="23000" />
-      <workItem from="1557058038050" duration="484000" />
-      <workItem from="1557065448854" duration="2994000" />
-      <workItem from="1557147266390" duration="2541000" />
-      <workItem from="1557236104249" duration="5824000" />
-      <workItem from="1557323071370" duration="3176000" />
-      <workItem from="1557408455035" duration="94000" />
-      <workItem from="1557408581624" duration="4807000" />
-      <workItem from="1557474056799" duration="19000" />
-      <workItem from="1557504813042" duration="4035000" />
-      <workItem from="1557840767608" duration="2757000" />
-      <workItem from="1557924744544" duration="3915000" />
-      <workItem from="1558017657943" duration="1777000" />
-      <workItem from="1559393456513" duration="1246000" />
-      <workItem from="1559904443126" duration="24000" />
-      <workItem from="1563095993345" duration="8296000" />
-      <workItem from="1566913161613" duration="2386000" />
-      <workItem from="1566998879626" duration="3756000" />
-      <workItem from="1567516580583" duration="4164000" />
-      <workItem from="1567606595671" duration="1629000" />
-      <workItem from="1567609523386" duration="13000" />
-      <workItem from="1568038918851" duration="875000" />
-      <workItem from="1568537883735" duration="5473000" />
-      <workItem from="1568544224355" duration="8000" />
-      <workItem from="1568640984523" duration="5925000" />
-      <workItem from="1568712314427" duration="2582000" />
-      <workItem from="1568718823066" duration="960000" />
-      <workItem from="1568772597973" duration="5085000" />
-      <workItem from="1568899541894" duration="3220000" />
-      <workItem from="1569133722424" duration="2658000" />
-      <workItem from="1569136893339" duration="4731000" />
-      <workItem from="1569207206338" duration="1041000" />
-      <workItem from="1569410891845" duration="5285000" />
-      <workItem from="1569468306552" duration="1000" />
-      <workItem from="1569490287108" duration="2000" />
-      <workItem from="1569581075061" duration="4431000" />
-      <workItem from="1569671280165" duration="5212000" />
-      <workItem from="1569726990523" duration="891000" />
-      <workItem from="1569727946910" duration="203000" />
-      <workItem from="1569728166371" duration="232000" />
-      <workItem from="1570499110209" duration="303000" />
-      <workItem from="1570499446284" duration="2827000" />
-      <workItem from="1570504936758" duration="844000" />
-      <workItem from="1570626609759" duration="3581000" />
-      <workItem from="1570673038772" duration="255000" />
-      <workItem from="1570691589192" duration="2234000" />
-      <workItem from="1570697964866" duration="777000" />
-      <workItem from="1570713051553" duration="1139000" />
-      <workItem from="1570791987879" duration="2258000" />
-      <workItem from="1570796396376" duration="72000" />
-      <workItem from="1570796576596" duration="1020000" />
-      <workItem from="1570960150296" duration="6717000" />
+      <updated>1579011421353</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -257,189 +148,138 @@
       </map>
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="0" key="#Auto_Import" timestamp="1582381285788">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="446" y="0" key="#Auto_Import/0.0.1707.680@0.0.1707.680" timestamp="1582381285788" />
+    <state x="446" y="0" key="#Notifications" timestamp="1579185794264">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="446" y="0" key="#Notifications/0.0.1707.680@0.0.1707.680" timestamp="1579185794264" />
+    <state x="446" y="0" key="#Project_Structure" timestamp="1579353624751">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="446" y="0" key="#Project_Structure/0.0.1707.680@0.0.1707.680" timestamp="1579353624751" />
+    <state x="309" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579016578026">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="309" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.680@0.0.1707.680" timestamp="1579016578026" />
+    <state x="634" y="95" key="FileChooserDialogImpl" timestamp="1579186125679">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="634" y="95" key="FileChooserDialogImpl/0.0.1707.680@0.0.1707.680" timestamp="1579186125679" />
+    <state width="477" height="553" key="GridCell.Tab.0.bottom" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.0.bottom/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.0.center" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.0.center/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.0.left" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.0.left/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.0.right" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.0.right/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.1.bottom" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.1.bottom/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.1.center" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.1.center/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.1.left" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.1.left/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state width="477" height="553" key="GridCell.Tab.1.right" timestamp="1582467867375">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state width="477" height="553" key="GridCell.Tab.1.right/0.0.1707.680@0.0.1707.680" timestamp="1582467867375" />
+    <state x="383" y="0" key="SettingsEditor" timestamp="1582453732271">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="383" y="0" key="SettingsEditor/0.0.1707.680@0.0.1707.680" timestamp="1582453732271" />
+    <state x="542" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579011430116">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="542" y="164" key="com.intellij.ide.util.TipDialog/0.0.1707.680@0.0.1707.680" timestamp="1579011430116" />
+    <state x="510" y="151" key="run.anything.popup" timestamp="1582453776084">
+      <screen x="0" y="0" width="1707" height="680" />
+    </state>
+    <state x="510" y="151" key="run.anything.popup/0.0.1707.680@0.0.1707.680" timestamp="1582453776084" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q048/Solution.java</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/src/main/java/q661/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/r124/Solution.java</url>
+          <line>38</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q051/Solution.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/src/main/java/r019/Solution.java</url>
+          <line>28</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q053/Solution.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/src/main/java/r019/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/r019/Solution.java</url>
+          <line>15</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q027/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/q467/Solution.java</url>
           <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/r124/Solution.java</url>
+          <line>29</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q055/Solution.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/main/java/q496/Solution.java</url>
+          <line>18</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q055/Solution.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q056/Solution.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/main/java/q878/Solution.java</url>
+          <line>6</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q057/Solution.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q059/Solution.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q060/Solution.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q061/Solution.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q061/Solution.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q061/Solution.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q062/Solution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q062/Solution.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q062/Solution.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q064/Solution.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q066/Solution.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q070/Solution.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q071/Solution.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q075/Solution.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q078/Solution.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q077/Solution.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q082/Solution.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q054/Solution.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q092/Solution.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q092/Solution.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q093/Solution.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/q091/Solution.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="74" />
+          <url>file://$PROJECT_DIR$/src/main/java/q878/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mengchuilu$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1569676680387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>q092.*</FILTER>
-    </SUITE>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="M[i][j]" language="JAVA" />
+        <watch expression="score[stack.peek()]" language="JAVA" />
+        <watch expression="hours" />
+        <watch expression="result" language="JAVA" />
+        <watch expression="stack.peekFirst()" language="JAVA" />
+        <watch expression="p.charAt(i -1)" language="JAVA" />
+        <watch expression="p.charAt(i) - 1" language="JAVA" />
+        <watch expression="half / a - half / lcm + half / b" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
