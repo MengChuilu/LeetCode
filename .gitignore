@@ -25,6 +25,6 @@ hs_err_pid*
 # idea
 *.iml
 *.idea/
-
+*.settings/
 # if this file dont work,   input "git rm -r --cached ." in terminal
 
